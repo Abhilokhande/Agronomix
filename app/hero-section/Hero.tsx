@@ -4,7 +4,7 @@ import { monaSans } from "../fonts/monaSans";
 import { motion } from "framer-motion";
 import { imageAnimation, bodyAnimation } from "../animations/animations";
 import AnimatedWords from "../animations/AnimatedWords";
-import profile from "../../public/profile.webp";
+import profile from "../../public/abhii.jpg";
 
 const Hero = () => {
   return (
@@ -19,7 +19,7 @@ const Hero = () => {
       <div className="absolute top-10 flex justify-between sm:w-[90%] lg:max-w-[1440px]">
         <div>
           <Link
-            href="https://drive.google.com/file/d/1Mmwl-FRGPm5QVe3AjtukJr_Jpc366Ear/view"
+            href="https://drive.google.com/file/d/1ou8WazLzkqcLpnlVOqIerIL-gtBpGNN3/view?usp=drive_link"
             target="_blank"
             aria-label="View Resume"
           >
@@ -34,7 +34,7 @@ const Hero = () => {
 
         <div className="flex gap-10 text-[#e4ded7] sm:gap-12 md:gap-14 lg:gap-14">
           <Link
-            href="https://github.com/victorcodess"
+            href="https://github.com/Abhilokhande"
             target="_blank"
             aria-label="View GitHub Profile"
           >
@@ -46,7 +46,7 @@ const Hero = () => {
             </motion.p>
           </Link>
           <Link
-            href="https://www.linkedin.com/in/victor-williams-chukwudi/"
+            href="https://www.linkedin.com/in/abhijeet-lokhande-18a468270/"
             target="_blank"
             aria-label="View LinkedIn Profile"
           >
@@ -58,7 +58,7 @@ const Hero = () => {
             </motion.p>
           </Link>
           <Link
-            href="https://twitter.com/victorwill__"
+            href="https://x.com/AbhiLok94828777"
             target="_blank"
             aria-label="View Twitter Profile"
           >
@@ -77,7 +77,7 @@ const Hero = () => {
           className={`relative flex flex-col items-center justify-center ${monaSans.className}   `}
         >
           <AnimatedWords
-            title="VICTOR WILLIAMS"
+            title="ABHIJEET LOKHANDE"
             style="inline-block overflow-hidden pt-1 -mr-4 sm:-mr-5 md:-mr-7 lg:-mr-9 -mb-1 sm:-mb-2 md:-mb-3 lg:-mb-4"
           />
           <motion.div
@@ -90,7 +90,7 @@ const Hero = () => {
               alt="Victor's headshot"
               data-blobity-tooltip="Fine boy"
               data-blobity-invert="false"
-              className=" w-[150px] rounded-[16px] grayscale hover:grayscale-0 md:w-[200px] md:rounded-[32px] lg:w-[245px]"
+              className=" w-[100px] rounded-[16px] grayscale hover:grayscale-0 md:w-[150px] md:rounded-[32px] lg:w-[245px]"
             />
           </motion.div>
         </div>

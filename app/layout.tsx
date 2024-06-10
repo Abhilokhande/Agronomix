@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   description:
     "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
   generator: "Next.js",
-  applicationName: "Victor Williams",
+  applicationName: "Abhijeet Lokhande",
   keywords: [
     "freelance",
     "developer",
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   ],
   colorScheme: "dark",
   openGraph: {
-    title: "Victor Williams — Frontend Engineer",
+    title: "Abhijeet Lokhande",
     description:
       "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
     url: "https://www.victorwilliams.me/",
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
         url: "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
         width: 1200,
         height: 630,
-        alt: "Victor Williams — Frontend Engineer",
+        alt: "Abhijeet Lokhande-Developer",
       },
     ],
     locale: "en-US",
@@ -55,7 +55,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Victor Williams — Frontend Engineer",
+    title: "Abhijeet Lokhande-Developer",
     description:
       "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
     creator: "victorwill__",
