@@ -106,15 +106,7 @@ const Hero = () => {
           variants={bodyAnimation}
         >
           <p className="z-50 text-center text-[16px] font-medium text-[#e4ded7] md:text-[20px] lg:text-left">
-            Frontend Engineer and Product Designer, prev at{" "}
-            <Link
-              href="https://www.mono.co/"
-              target="_blank"
-              className="underline underline-offset-2 hover:no-underline"
-              aria-label="Mono Website"
-            >
-              Mono,
-            </Link> currently available for work.
+          Adaptable developer with expertise across diverse technologies.
           </p>
         </motion.div>
 
@@ -123,8 +115,7 @@ const Hero = () => {
           variants={bodyAnimation}
         >
           <p className="text-right text-[16px] font-semibold text-[#e4ded7] md:text-[20px]">
-            Focused on interfaces and experiences, working remotely from Lagos,
-            Nigeria.
+          Committed to delivering efficient and innovative solutions
           </p>
         </motion.div>
       </div>

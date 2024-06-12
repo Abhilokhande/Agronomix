@@ -7,63 +7,46 @@ export type blogProps = {
 };
 
 export const blogDetails = [
-  // {
-  //   title: "Building a Text Field Component with Material UI, Formik, and Yup",
-  //   image:
-  //     "https://cdn.hashnode.com/res/hashnode/image/upload/v1628442954056/OHNFYAzz4.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
-  //   date: "12/31/2022",
-  //   url: "",
-  //   available: false,
-  // },
-  // {
-  //   title:
-  //     "Creating a Select Field Component with Material UI, Formik, and Yup",
-  //   image:
-  //     "https://cdn.hashnode.com/res/hashnode/image/upload/v1624616590157/N4Hvd8NfZ.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
-  //   date: "12/31/2022",
-  //   url: "",
-  //   available: false,
-  // },
   {
-    title: "How to create exit animations with Framer Motion",
+    title: "Installation process and basic of react",
     image:
-      "https://cdn.hashnode.com/res/hashnode/image/upload/v1715345723909/c71d9691-fe4c-4302-b1cb-d9dca77a99b5.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
-    date: "MAY 2024",
-    url: "https://blog.victorwilliams.me/how-to-create-exit-animations-with-framer-motion",
+      "https://cdn.hashnode.com/res/hashnode/image/upload/v1715540207112/afc1d806-29d0-49e9-9b38-674c6965da38.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+    date: "13 MAY 2024",
+    url: "https://abhijeetlokhande.hashnode.dev/getting-started-with-react-installation-process-and-basics",
     available: true,
   },
   {
-    title: "The Importance of Collaboration in Achieving Successful Design",
+    title: "Exploring the Web of Networks",
     image:
-      "https://github.com/victorcodess/folio-v1/assets/84178696/05656547-3206-42af-b081-83247f9a1063",
-    date: "MAY 2024",
-    url: "https://blog.victorwilliams.me/importance-of-collaboration-in-design",
+      "https://cdn.hashnode.com/res/hashnode/image/upload/v1715363166751/385b3795-f4a1-435a-a105-74f100f3f6a2.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+    date: "11 MAY 2024",
+    url: "https://abhijeetlokhande.hashnode.dev/a-deep-dive-into-computer-network-topologies",
     available: true,
   },
   {
     title:
-      "Step-by-Step Guide: Adding Google Maps to Your React App Using Vis.gl",
+      "Navigating the World of IP Addresses",
     image:
-      "https://github.com/victorcodess/folio-v1/assets/84178696/c2693469-e5c6-43ad-a857-693bbbfe7b9a",
-    date: "APR 2024",
-    url: "https://blog.victorwilliams.me/how-to-add-google-maps-to-react-app-visgl",
+      "https://cdn.hashnode.com/res/hashnode/image/upload/v1715277462323/496d5cc8-829e-4131-9915-1f3ba083fe98.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+    date: "MAY 2024",
+    url: "https://abhijeetlokhande.hashnode.dev/what-is-an-ip-address",
     available: true,
   },
   {
     title:
-      "2023: A Year in Review – Navigating Challenges and Embracing Growth",
+      "Computer Networks",
     image:
-      "https://cdn.hashnode.com/res/hashnode/image/upload/v1704146853987/5e5ffc0f-9d20-4cc8-ad94-00ec737ba0f5.jpeg",
-    date: "JAN 2024",
-    url: "https://blog.victorwilliams.me/2023-a-year-in-review",
+      "https://cdn.hashnode.com/res/hashnode/image/upload/v1715104416331/af872239-f63f-45a7-a804-07f4e0806b6b.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+    date: "APRIL 2024",
+    url: "https://abhijeetlokhande.hashnode.dev/computer-networks",
     available: true,
   },
   {
-    title: "Reflecting on My 18th Year: A Personal Review of 2022",
+    title: "All about Devin ,an first AI software engineer in world..",
     image:
-      "https://cdn.hashnode.com/res/hashnode/image/upload/v1672494063925/1ee2925f-e529-4a8b-9dd7-6eea996a34eb.png",
-    date: "DEC 2022",
-    url: "https://blog.victorwilliams.me/reflecting-on-my-18th-year-a-personal-review-of-2022",
+      "https://cdn.hashnode.com/res/hashnode/image/upload/v1710533172356/07e3c480-f310-489c-b4bc-e4c1abdfc5f9.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
+    date: "16 MARCH 2022",
+    url: "https://abhijeetlokhande.hashnode.dev/what-is-devin",
     available: true,
   },
 ];

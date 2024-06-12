@@ -26,11 +26,11 @@ const Contact = () => {
               "flex max-w-[500px] flex-col items-start text-left text-[150px] font-extrabold uppercase leading-[0.9em] text-[#e4ded7] sm:max-w-full sm:flex-row sm:items-center sm:justify-center sm:text-center sm:text-[170px] md:text-[200px] lg:text-center lg:text-[270px] xl:text-[390px]"
             }
           />
-          <Image
+          {/* <Image
             src={heartIcon}
             alt="Heart Icon"
             className="heartbeat md:-bottom-18 absolute -bottom-5 left-64 w-[120px] sm:-bottom-14 sm:left-[40%] md:left-[40%] md:w-[150px] lg:-bottom-16 lg:left-[42%] lg:w-[230px]"
-          />
+          /> */}
         </div>
 
         <div className="mt-20 flex w-full flex-col items-end justify-center gap-16 sm:mt-32 sm:gap-12 md:mt-40 md:flex-row md:items-start md:justify-between lg:mt-12 lg:max-w-[1440px]">
@@ -71,7 +71,7 @@ const Contact = () => {
 
           <div className="flex gap-10 text-[16px] font-bold text-[#e4ded7]  sm:gap-14 sm:text-[24px] md:gap-10 md:text-[16px] lg:gap-20 lg:text-[28px]">
             <Link
-              href="https://github.com/victorcodess"
+              href="https://github.com/Abhilokhande"
               target="_blank"
               aria-label="View GitHub Profile"
             >
@@ -85,7 +85,7 @@ const Contact = () => {
               />
             </Link>
             <Link
-              href="https://www.linkedin.com/in/victor-williams-chukwudi/"
+              href="https://www.linkedin.com/in/abhijeet-lokhande-18a468270"
               target="_blank"
               aria-label="View LinkedIn Profile"
             >
@@ -99,7 +99,7 @@ const Contact = () => {
               />
             </Link>
             <Link
-              href="https://twitter.com/victorwill__"
+              href="https://www.linkedin.com/in/abhijeet-lokhande-18a468270"
               target="_blank"
               aria-label="View Twitter Profile"
             >
@@ -113,7 +113,7 @@ const Contact = () => {
               />
             </Link>
             <Link
-              href="https://www.instagram.com/victorwill__/"
+              href="https://www.instagram.com/abhilokhande_092/"
               target="_blank"
               aria-label="View Instagram Profile"
             >
@@ -127,7 +127,7 @@ const Contact = () => {
               />
             </Link>
             <Link
-              href="https://blog.victorwilliams.me/"
+              href="https://abhijeetlokhande.hashnode.dev/"
               target="_blank"
               aria-label="View Hashnode Profile"
             >

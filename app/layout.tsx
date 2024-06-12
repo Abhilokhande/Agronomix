@@ -11,9 +11,9 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
-  title: "Victor Williams — Frontend Engineer",
+  title: "Abhijeet Lokhande — Web Developer",
   description:
-    "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
+    "",
   generator: "Next.js",
   applicationName: "Abhijeet Lokhande",
   keywords: [
@@ -28,20 +28,23 @@ export const metadata: Metadata = {
     "creative developer",
     "creative engineer",
     "tech",
-    "nigeria",
+    "pune",
     "software",
     "software developer",
     "portfolio",
     "frontend developer portfolio",
     "creative developer portfolio",
+    "java",
+    "python",
+    "c++",
   ],
   colorScheme: "dark",
   openGraph: {
     title: "Abhijeet Lokhande",
     description:
-      "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
-    url: "https://www.victorwilliams.me/",
-    siteName: "www.victorwilliams.me",
+      "",
+    url: "https://www.Abhijeetlokhande.me/",
+    siteName: "www.Abhijeetlokhande.me",
     images: [
       {
         url: "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
@@ -58,7 +61,7 @@ export const metadata: Metadata = {
     title: "Abhijeet Lokhande-Developer",
     description:
       "Frontend Engineer and Product Designer, currently at Kora. Focused on interfaces and experiences, working remotely from Lagos, Nigeria.",
-    creator: "victorwill__",
+    creator: "Abhijeet Lokhande",
     creatorId: "1243720976552144897",
     images: [
       "https://user-images.githubusercontent.com/84178696/228620835-e3cc5c9b-72fc-4f54-a628-407ef7b650f5.png",
