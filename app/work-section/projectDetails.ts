@@ -18,7 +18,7 @@ export const devProjects = [
     technologies: ["MERN","Bootstarp"],
     github: "https://github.com/Abhilokhande/Open-Throttle",
     demo: " ",
-    image: require(".//../../public/projects/open-throttle.png"),
+    image: require(".//../../public/projects/open-throttle3.png"),
     available: true,
   },
   {
@@ -29,7 +29,7 @@ export const devProjects = [
     technologies: ["JAVA(JSp)", "HTML", "CSS"],
     github: "https://github.com/Abhilokhande/Online-Banking",
     demo: "",
-    image: require(".//../../public/projects/flixify-flip.png"),
+    image: require(".//../../public/projects/moneymate1.png"),
     available: true,
   },
   {
@@ -51,7 +51,7 @@ export const devProjects = [
     technologies: ["React", "CSS", "Node.Js"],
     github: "https://github.com/Abhilokhande/Case-Study",
     demo: "2",
-    image: require(".//../../public/projects/alpaca-flip.png"),
+    image: require(".//../../public/projects/path.png"),
     available: true,
   },
 ];
