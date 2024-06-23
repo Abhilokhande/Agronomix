@@ -34,17 +34,6 @@ export const devProjects = [
   },
   {
     id: 2,
-    name: "RhythmicNodes",
-    description:
-     "RhythmicNodes: A console music player demonstrating linked list power. Weaving melodies through nodes, it offers dynamic playback, blending tech and music seamlessly.",
-    technologies: ["C++", "Data Structure"],
-    github: "https://github.com/Abhilokhande/DCLL-music-player....",
-    demo: "",
-    image: require(".//../../public/projects/skywatch-flip.png"),
-    available: true,
-  },
-  {
-    id: 3,
     name: "PathPuzzle",
     description:
      "PathPuzzle: A MERN stack project utilizing the A* algorithm to find the shortest path. With its CSS-crafted block design, it offers an immersive gaming experience. Challenge yourself to navigate through mazes and puzzles, blending entertainment with algorithmic complexity.",
@@ -54,6 +43,29 @@ export const devProjects = [
     image: require(".//../../public/projects/path.png"),
     available: true,
   },
+  {
+    id: 3,
+    name: "Agronomix",
+    description:
+      "This project harnesses the power of data science and Flask to create an interactive web application that provides valuable insights and analysis.",
+    technologies: ["PYTHON (Flask)", "HTML", "CSS"],
+    github: "https://github.com/Abhilokhande/Online-Banking",
+    demo: "",
+    image: require(".//../../public/projects/py3.png"),
+    available: true,
+  },
+  {
+    id: 4,
+    name: "RhythmicNodes",
+    description:
+     "RhythmicNodes: A console music player demonstrating linked list power. Weaving melodies through nodes, it offers dynamic playback, blending tech and music seamlessly.",
+    technologies: ["C++", "Data Structure"],
+    github: "https://github.com/Abhilokhande/DCLL-music-player....",
+    demo: "",
+    image: require(".//../../public/projects/rhythmicnode.png"),
+    available: true,
+  },
+  
 ];
 
 // export const designProjects = [
