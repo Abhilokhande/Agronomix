@@ -45,7 +45,7 @@ export const blogDetails = [
     title: "All about Devin ,an first AI software engineer in world..",
     image:
       "https://cdn.hashnode.com/res/hashnode/image/upload/v1710533172356/07e3c480-f310-489c-b4bc-e4c1abdfc5f9.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp",
-    date: "16 MARCH 2022",
+    date: "16 MARCH 2024",
     url: "https://abhijeetlokhande.hashnode.dev/what-is-devin",
     available: true,
   },
